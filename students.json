@@ -1,0 +1,28 @@
+
+[
+    {
+        "name":"Riya",
+        "class":"bca",
+        "age":20,
+        "email":"riya@gmail.com",
+        "address": "bhopal",
+        "contactNumber":9981802715
+    },
+    {
+        "name":"anny",
+        "class":"bca",
+        "age":21,
+        "email":"a@gmail.com",
+        "address": "bhopal",
+        "contactNumber":9981802714
+    },
+    {
+        "name":"anncode",
+        "class":"bcom",
+        "age":24,
+        "email":"r@gmail.com",
+        "address": "bhopal",
+        "contactNumber":9981802713
+    } 
+
+]
